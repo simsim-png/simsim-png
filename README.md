@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mohammedsafir17](https://medium.com/@mohammedsafir17)
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Security, MEAN**
 
 - 📫 How to reach me **mohammedsafir17@gmail.com**
 
